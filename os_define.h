@@ -1,0 +1,1 @@
+/mnt/hgfs/Shared Folder/user_progs/log_cl/os_define.h

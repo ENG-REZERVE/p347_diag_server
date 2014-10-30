@@ -1,0 +1,1 @@
+/mnt/hgfs/Shared Folder/drivers/hwmon/p347_pwr_user.h
